@@ -27,16 +27,20 @@ import com.linghushaoxia.com.google.code.kaptcha.util.Config;
 public class KaptchaServiceUtil  {
 	/**
 	 * 
-	 * 功能说明:生成验证码
-	 * @return StringBuffer
-	 * @time:2016年3月2日下午8:03:56
+	 * 功能说明:
+	 * @param properties
+	 * @return String[]
+	 * 长度为2的数组
+	 * 0：验证码图片的base64编码
+	 * 1：验证码的文本字符
+	 * @time:2016年3月3日下午8:31:23
 	 * @author:linghushaoxia
 	 * @exception:
 	 *
 	 */
-	public static String geneValidateCode(Properties properties){
+	public static String[] geneValidateCode(Properties properties){
 		//生成的验证码结果
-		String result =null;
+		String[] result ={"",""};
 		ImageIO.setUseCache(false);
 		//初始化配置
 		Config config = new Config(properties);
@@ -62,7 +66,8 @@ public class KaptchaServiceUtil  {
 		if(imageBuffer!=null){
 			//将字符拼接在前面和append方法相反
 			imageBuffer.insert(0, "data:image/jpeg;base64,");
-			result=imageBuffer.toString();
+			result[0]=imageBuffer.toString();
+			result[1] =capText;
 		}
 		return result;
 	}
@@ -86,7 +91,8 @@ public class KaptchaServiceUtil  {
 		//噪声颜色
 		properties.put("kaptcha.noise.color", "black");
 		//粘贴到浏览器，可以查看浏览器中的显示效果
-		String validateCode= KaptchaServiceUtil.geneValidateCode(properties);
-		System.out.println(validateCode);
+		String[] validateCode= KaptchaServiceUtil.geneValidateCode(properties);
+		System.out.println(validateCode[1]);
+		System.out.println(validateCode[0]);
 	}
 }
