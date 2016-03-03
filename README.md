@@ -24,8 +24,9 @@
 </br>		//噪声颜色
 </br>		properties.put("kaptcha.noise.color", "black");
 </br>		//粘贴到浏览器，可以查看浏览器中的显示效果
-</br>		String validateCode= KaptchaServiceUtil.geneValidateCode(properties);
-</br>		System.out.println(validateCode);
+</br>		String[] validateCode= KaptchaServiceUtil.geneValidateCode(properties);
+</br>		System.out.println(validateCode[1]);
+</br>		System.out.println(validateCode[0]);
 </br>}
 </br>说明：
 </br>生成算法来自google公司的kaptcha,进行了封装。
