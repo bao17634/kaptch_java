@@ -88,6 +88,6 @@
 </br>Tv8A/n+uf+/rf40UUAL/AGnqH/P9c/8Af5v8aP7U1D/n/uv+/wA3+NFFAB/auo/8/wDdf9/m/wAa
 </br>P7V1H/n/ALr/AL/N/jRRQAv9raj/ANBC6/7/ADf40f2tqX/QQu/+/wA3+NFFAB/a+pf9BC7/AO/z
 </br>f40v9r6n/wBBG7/7/t/jRRQA19V1GRGR7+6ZGBDK0zEEeh5ooorysw+KJ4ua/HH0P//Z
-	}
+</br>}
 </br>说明：
 </br>生成算法来自google公司的kaptcha,进行了封装。
