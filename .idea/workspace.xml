@@ -2,76 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a6d617-2d66-4c95-a675-50e4b3245de9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/image1/2f5pp_1571971103670.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/38hfc_1571970662934.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/4d5md_1571974765650.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/4hyra_1571971097652.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/4xhnn_1571970673573.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/54p67_1571971102164.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/6337c_1571975392017.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/7ha2b_1571971099187.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/7kn7b_1571974912486.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/7yb63_1571965517513.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/83y88_1571965516900.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/85xwp_1571971100725.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/8nekf_1571970686516.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/adcd6_1571970689430.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/afx3n_1571974922997.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/agc5g_1571970664699.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/b6nne_1571975396980.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/b7dx5_1571971088992.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/bandw_1571975050177.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/bbhhh_1571970688311.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/bg3dr_1571970659052.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/bn4n3_1571974919302.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/byamm_1571971118695.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/d3cgm_1571974920404.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/d3yd2_1571971117016.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/dd34x_1571974759647.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/ecm5r_1571975048968.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/fb27m_1571970661329.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/fe785_1571971106573.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/g74mh_1571971112588.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/gahwf_1571970674437.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/gd5wf_1571970692754.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/ggm8y_1571965501951.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/gnkxx_1571971108012.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/h54g8_1571975042640.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/hc78c_1571971105104.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/hg4ap_1571971093117.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/hhgr6_1571970665920.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/kcf85_1571975395483.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/mafye_1571971091670.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/mcffw_1571970650821.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/mg5cr_1571970682810.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/mn4bh_1571974769111.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/n2g24_1571975051362.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/n43fr_1571965519215.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/p6pcf_1571971110932.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/r7w4a_123131315665.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/rcnpc_1571970655273.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/rec6n_1571974761149.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/wby2b_1571971109468.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/wp82c_1571975047791.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/wx5y5_1571971096016.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/x43ph_1571975387063.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/x5db6_1571974756546.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/xbxfd_1571965518172.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/xyxmk_1571971115566.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/y5bwm_1571974921503.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/y8pr8_1571971094582.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/yymp3_1571971114129.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image1/zcdkd_1571970679511.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/kaptcha.iml" afterPath="$PROJECT_DIR$/kaptcha.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultNoise.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultNoise.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/byr/captch/URLContent.class" afterPath="$PROJECT_DIR$/target/classes/com/byr/captch/URLContent.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/byr/kaptcha/util/KaptchaServiceUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/byr/kaptcha/util/KaptchaServiceUtil.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +18,7 @@
       <file leaf-file-name="KaptchaServiceUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
+            <state relative-caret-position="-433">
               <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding />
             </state>
@@ -116,48 +48,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractBufferedImageOp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/AbstractBufferedImageOp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="98" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayColormap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/ArrayColormap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BicubicScaleFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/BicubicScaleFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URLContent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="50" />
+            <state relative-caret-position="838">
+              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -166,25 +58,10 @@
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="189">
+              <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/HttpUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="81" column="31" lean-forward="false" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2963#2978#0" expanded="true" />
-                <element signature="e#9527#9528#0" expanded="true" />
-                <element signature="e#9578#9579#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,8 +84,8 @@
       <find>basicAccurateGeneral</find>
       <find>ShadowGimpy</find>
       <find>HttpUtils</find>
-      <find>StringUtils</find>
       <find>HttpResponse</find>
+      <find>StringUtils</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -280,8 +157,8 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -602,12 +479,12 @@
       <workItem from="1572007515929" duration="4967000" />
       <workItem from="1572015052373" duration="25699000" />
       <workItem from="1572152139641" duration="7900000" />
-      <workItem from="1572270898786" duration="3759000" />
+      <workItem from="1572270898786" duration="4395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52349000" />
+    <option name="totallyTimeSpent" value="52985000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -619,7 +496,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -630,10 +508,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0043956046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30903155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2934066" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18869936" sideWeight="0.49415204" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2308534" sideWeight="0.49415204" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945629" sideWeight="0.50584793" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -848,14 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -864,10 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        <state relative-caret-position="-433">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -885,10 +755,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="189">
+          <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

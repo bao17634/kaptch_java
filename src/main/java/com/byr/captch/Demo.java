@@ -19,9 +19,9 @@ public class Demo {
         String host = "http://apigateway.jianjiaoshuju.com";
         String path = "/api/v_1/fzyzm.html";
         String method = "POST";
-        String appcode = "你自己的AppCode";
-        String appKey = "你自己的AppKey";
-        String appSecret = "你自己的AppSecret";
+        String appcode = "AB1653FC6E245A54764979DF040FF731";
+        String appKey = "AKID2e3ba67272e0929056b515a9775eba43";
+        String appSecret = "74687c8a5cae8af5efad102d0d62a092";
         Map headers = new HashMap();
         headers.put("appcode", appcode);
         headers.put("appKey", appKey);
@@ -44,7 +44,6 @@ public class Demo {
             HttpResponse response = HttpUtils.doPost(host, path, method, headers, querys, bodys);
             System.out.println(response.toString());
             //获取response的body
-            //System.out.println(EntityUtils.toString(response.getEntity()));
         } catch (Exception e) {
             e.printStackTrace();
         }
