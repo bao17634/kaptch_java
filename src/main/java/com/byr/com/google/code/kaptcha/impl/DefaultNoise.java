@@ -20,8 +20,8 @@ import com.byr.com.google.code.kaptcha.util.Configurable;
 public class DefaultNoise extends Configurable implements NoiseProducer
 {
 	/**
-	 * Draws a noise on the image. The noise curve depends on the factor values.
-	 * Noise won't be visible if all factors have the value > 1.0f
+	 * 在图像上产生噪点。 噪声曲线取决于因子值。
+	 *如果所有因素的值均大于1.0f，则看不到噪声
 	 * 
 	 * @param image
 	 *            the image to add the noise to
@@ -39,23 +39,23 @@ public class DefaultNoise extends Configurable implements NoiseProducer
 		int width = image.getWidth();
 		int height = image.getHeight();
 
-		// the points where the line changes the stroke and direction
+		// 线改变笔划和方向的点
 		Point2D[] pts = null;
 		Random rand = new Random();
 
-		// the curve from where the points are taken
+		// 取点的曲线
 		CubicCurve2D cc = new CubicCurve2D.Float(width * factorOne, height
 				* rand.nextFloat(), width * factorTwo, height
 				* rand.nextFloat(), width * factorThree, height
 				* rand.nextFloat(), width * factorFour, height
 				* rand.nextFloat());
 
-		// creates an iterator to define the boundary of the flattened curve
+		// 创建一个迭代器以定义展平曲线的边界
 		PathIterator pi = cc.getPathIterator(null, 2);
 		Point2D tmp[] = new Point2D[200];
 		int i = 0;
 
-		// while pi is iterating the curve, adds points to tmp array
+		//当pi迭代曲线时，将点添加到tmp数组
 		while (!pi.isDone())
 		{
 			float[] coords = new float[6];
@@ -79,7 +79,7 @@ public class DefaultNoise extends Configurable implements NoiseProducer
 
 		graph.setColor(color);
 
-		// for the maximum 3 point change the stroke and direction
+		// 最多3点更改行程和方向
 		for (i = 0; i < pts.length - 1; i++)
 		{
 			if (i < 3)

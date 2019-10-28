@@ -2,7 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a6d617-2d66-4c95-a675-50e4b3245de9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java" afterDir="false" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/image1/2f5pp_1571971103670.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/38hfc_1571970662934.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/4d5md_1571974765650.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/4hyra_1571971097652.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/4xhnn_1571970673573.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/54p67_1571971102164.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/6337c_1571975392017.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/7ha2b_1571971099187.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/7kn7b_1571974912486.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/7yb63_1571965517513.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/83y88_1571965516900.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/85xwp_1571971100725.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/8nekf_1571970686516.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/adcd6_1571970689430.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/afx3n_1571974922997.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/agc5g_1571970664699.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/b6nne_1571975396980.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/b7dx5_1571971088992.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/bandw_1571975050177.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/bbhhh_1571970688311.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/bg3dr_1571970659052.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/bn4n3_1571974919302.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/byamm_1571971118695.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/d3cgm_1571974920404.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/d3yd2_1571971117016.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/dd34x_1571974759647.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/ecm5r_1571975048968.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/fb27m_1571970661329.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/fe785_1571971106573.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/g74mh_1571971112588.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/gahwf_1571970674437.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/gd5wf_1571970692754.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/ggm8y_1571965501951.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/gnkxx_1571971108012.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/h54g8_1571975042640.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/hc78c_1571971105104.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/hg4ap_1571971093117.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/hhgr6_1571970665920.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/kcf85_1571975395483.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/mafye_1571971091670.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/mcffw_1571970650821.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/mg5cr_1571970682810.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/mn4bh_1571974769111.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/n2g24_1571975051362.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/n43fr_1571965519215.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/p6pcf_1571971110932.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/r7w4a_123131315665.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/rcnpc_1571970655273.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/rec6n_1571974761149.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/wby2b_1571971109468.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/wp82c_1571975047791.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/wx5y5_1571971096016.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/x43ph_1571975387063.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/x5db6_1571974756546.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/xbxfd_1571965518172.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/xyxmk_1571971115566.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/y5bwm_1571974921503.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/y8pr8_1571971094582.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/yymp3_1571971114129.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image1/zcdkd_1571970679511.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/kaptcha.iml" afterPath="$PROJECT_DIR$/kaptcha.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultNoise.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultNoise.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/byr/captch/URLContent.class" afterPath="$PROJECT_DIR$/target/classes/com/byr/captch/URLContent.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/byr/kaptcha/util/KaptchaServiceUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/byr/kaptcha/util/KaptchaServiceUtil.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +82,115 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="KaptchaServiceUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-595">
+              <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tuple4f.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/vecmath/Tuple4f.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/math/BinaryFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractBufferedImageOp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/AbstractBufferedImageOp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayColormap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/ArrayColormap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BicubicScaleFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/BicubicScaleFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/HttpUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="81" column="31" lean-forward="false" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2963#2978#0" expanded="true" />
+                <element signature="e#9527#9528#0" expanded="true" />
+                <element signature="e#9578#9579#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +198,21 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>basicGeneralUrl</find>
+      <find>1572010181475</find>
+      <find>res</find>
+      <find>basicAccurateGeneral</find>
+      <find>ShadowGimpy</find>
+      <find>HttpUtils</find>
+      <find>StringUtils</find>
+      <find>HttpResponse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,9 +229,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/util/Config.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byr/captch/getURLContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/baiduDemo/Sample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/baiduDemo/imageToStringByBase64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/baiduDemo/VCodeCheckUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultNoise.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/baiduapi/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java" />
       </list>
     </option>
   </component>
@@ -49,18 +252,52 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kaptcha" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kaptcha" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kaptcha" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="566" />
-    <option name="y" value="71" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -68,38 +305,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -107,8 +344,8 @@
               <item name="byr" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -117,40 +354,47 @@
               <item name="captch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
+              <item name="kaptch_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaptch_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="byr" type="462c0819:PsiDirectoryNode" />
               <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kaptcha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="byr" type="462c0819:PsiDirectoryNode" />
-              <item name="kaptcha" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ipProxyPool" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\MyObject\kaptch_java\image" />
+      <recent name="G:\MyObject\kaptch_java\image2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.byr.captch" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\MyObject\kaptch_java\image2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,33 +408,119 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.URLContent">
-    <configuration name="KaptchaServiceUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.byr.kaptcha.util.KaptchaServiceUtil" />
-      <module name="kaptcha" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byr.baiduapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.byr.baiduapi.Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kaptcha" />
+      <envs />
+    </configuration>
+    <configuration name="KaptchaServiceUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.byr.kaptcha.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="URLContent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.byr.captch.URLContent" />
-      <module name="kaptcha" />
+      <option name="MAIN_CLASS_NAME" value="com.byr.kaptcha.util.KaptchaServiceUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kaptcha" />
+      <envs />
+    </configuration>
+    <configuration name="URLContent1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.byr.captch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="MAIN_CLASS_NAME" value="com.byr.captch.URLContent1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kaptcha" />
+      <envs />
+    </configuration>
+    <configuration name="URLContent2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byr.captch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.byr.captch.URLContent2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kaptcha" />
+      <envs />
+    </configuration>
+    <configuration name="URLContent3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byr.captch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.byr.captch.URLContent3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kaptcha" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -200,13 +530,17 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
+      <envs />
       <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -219,25 +553,37 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
+      <envs />
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.KaptchaServiceUtil" />
-      <item itemvalue="Application.URLContent" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.URLContent1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.URLContent2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.URLContent3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.KaptchaServiceUtil" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.URLContent" />
-        <item itemvalue="Application.KaptchaServiceUtil" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.KaptchaServiceUtil" />
+        <item index="2" class="java.lang.String" itemvalue="Application.URLContent3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.URLContent2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.URLContent1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -253,39 +599,56 @@
       <workItem from="1571879628050" duration="589000" />
       <workItem from="1571883991205" duration="2663000" />
       <workItem from="1571897875435" duration="742000" />
+      <workItem from="1572007515929" duration="4967000" />
+      <workItem from="1572015052373" duration="25699000" />
+      <workItem from="1572152139641" duration="7900000" />
+      <workItem from="1572270898786" duration="3759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10024000" />
+    <option name="totallyTimeSpent" value="52349000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18102509" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35986915" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.28353328" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0043956046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30903155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18869936" sideWeight="0.49415204" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945629" sideWeight="0.50584793" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3813187" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4978022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,127 +659,317 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/byr/kaptcha/AppTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="59" />
     </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>f.getName().trim()+&quot;_&quot;+time</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.getName().substring(0,f.getName().trim().indexOf(&quot;_&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.getName().indexOf(&quot;_&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.getName().substring(&quot;_&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.get(&quot;words_result&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jo.size()==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(jo.get(0).toString()).get(&quot;words&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(jo.get(0).toString())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONArray.parseArray(res.get(&quot;words_result&quot;).toString()).get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/util/Config.java">
+    <entry file="file://$PROJECT_DIR$/image1/1572009427618.png" />
+    <entry file="file://$PROJECT_DIR$/image2/6_1572009427618.png" />
+    <entry file="file://$PROJECT_DIR$/image1/1572009467198.png" />
+    <entry file="file://$PROJECT_DIR$/image1/1572009433755.png" />
+    <entry file="file://$PROJECT_DIR$/image2/1572009475272.png" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20160810/json-20160810.jar!/org/json/JSONObject.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1534">
-          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        <state relative-caret-position="181">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultBackground.java">
+    <entry file="file://$PROJECT_DIR$/image1/1572009483102.png" />
+    <entry file="file://$PROJECT_DIR$/image2/ qwk8n_1572009473721.png" />
+    <entry file="file://$PROJECT_DIR$/image2/1572010181475.png" />
+    <entry file="file://$PROJECT_DIR$/image/4r3nm_1572009589400.png" />
+    <entry file="file://$PROJECT_DIR$/image2/3ubb8_1572009546645.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/impl/DefaultNoise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="1890">
+          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/kapatch.jpg" />
-    <entry file="file://$PROJECT_DIR$/image/kapatch.png" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/com/google/code/kaptcha/util/ConfigHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        <state relative-caret-position="243">
+          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/tghav_1571818209677.png" />
-    <entry file="file://$PROJECT_DIR$/image/0idlm_1571818909254.png" />
-    <entry file="file://$PROJECT_DIR$/image/0iji1_1571818895281.png" />
-    <entry file="file://$PROJECT_DIR$/image/0jgyc_1571818913011.png" />
-    <entry file="file://$PROJECT_DIR$/image/0l093_1571818886789.png" />
-    <entry file="file://$PROJECT_DIR$/image/0lryu_1571818909762.png" />
-    <entry file="file://$PROJECT_DIR$/image/0x5e7_1571818900100.png" />
-    <entry file="file://$PROJECT_DIR$/image/0wg6x_1571818919609.png" />
-    <entry file="file://$PROJECT_DIR$/image/0vue3_1571818911124.png" />
-    <entry file="file://$PROJECT_DIR$/image/2e3o6_1571818914811.png" />
-    <entry file="file://$PROJECT_DIR$/image/3i068_1571818907801.png" />
-    <entry file="file://$PROJECT_DIR$/image/3txkc_1571818899066.png" />
-    <entry file="file://$PROJECT_DIR$/image/3t0dr_1571818889170.png" />
-    <entry file="file://$PROJECT_DIR$/image/4uis4_1571818907436.png" />
-    <entry file="file://$PROJECT_DIR$/image/5ai91_1571818902055.png" />
-    <entry file="file://$PROJECT_DIR$/image/5amgd_1571818910400.png" />
-    <entry file="file://$PROJECT_DIR$/image/5ah9c_1571818912212.png" />
-    <entry file="file://$PROJECT_DIR$/image/5axr7_1571818891740.png" />
-    <entry file="file://$PROJECT_DIR$/image/5dhqe_1571818922159.png" />
-    <entry file="file://$PROJECT_DIR$/image/5d81t_1571818914166.png" />
-    <entry file="file://$PROJECT_DIR$/image/5cwxh_1571818922053.png" />
-    <entry file="file://$PROJECT_DIR$/image/srse8_1571819117169.png" />
-    <entry file="file://$PROJECT_DIR$/image/wcv6t_1571819117068.png" />
-    <entry file="file://$PROJECT_DIR$/image/28n7u_1571819116965.png" />
-    <entry file="file://$PROJECT_DIR$/image/acnrm_1571819599646.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/4d5md_1571974765650.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/g3iue_1572105545064.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/p217e_1572105545439.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/duq21_1572105853572.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/eb3z2_1572105853416.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/yjthw_1572105853713.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/qwpxz_1572105954826.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/2c4qx_1572106126959.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/jl7tp_1572106126709.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/eb8tm_1572106126865.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/cn9ls_1572106091950.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/ae5er_1572106092108.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/9drxg_1572106092195.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/5zqo6_1572106172847.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/4rx6u_1572106212023.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/jmh72_1572106211607.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/maw8j_1572106211929.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/k36zm_1572106467890.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/rsehw_1572106467790.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/po7vk_1572106467577.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/2cy53_1572099732060.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/0lymt_1572110706292.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/4hmvc_1572110707464.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/zymbx_1572110707089.png" />
+    <entry file="file://$PROJECT_DIR$/imae_auto/ix298_1572110708042.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/baiduapi/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/ArrayColormap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/BicubicScaleFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/image/AbstractBufferedImageOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/vecmath/Tuple4f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jhlabs/math/BinaryFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/KaptchaServiceUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="53" />
+        <state relative-caret-position="-595">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image1/1.png" />
-    <entry file="file://$PROJECT_DIR$/image1/2.png" />
-    <entry file="file://$PROJECT_DIR$/image1/1571885331637.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/URLContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="459">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/kaptcha/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="81" column="31" lean-forward="false" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2963#2978#0" expanded="true" />
+            <element signature="e#9527#9528#0" expanded="true" />
+            <element signature="e#9578#9579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byr/captch/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image1/1571885327177.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image1/1571885331506.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image1/1571885332857.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0bvs0_1571819742859.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0bylb_1571820004695.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0c6z2_1571819994403.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0cdmm_1571819869941.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0ck35_1571819814691.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0clty_1571820009027.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0cnzh_1571819931736.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0ct72_1571819922937.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0ddyo_1571819695369.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0dq3m_1571819816440.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0e1qv_1571819802355.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0cd2z_1571819888569.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/0ckfk_1571819944159.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kaptcha</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

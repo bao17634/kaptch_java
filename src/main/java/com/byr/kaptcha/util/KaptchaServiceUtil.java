@@ -53,7 +53,7 @@ public class KaptchaServiceUtil {
             long fielName = System.currentTimeMillis();
             //保存图片
             ImageIO.write(bi, "png", out);
-            ImageIO.write(bi, "png", new File("image/" + capText + "_" + fielName + ".png"));
+            ImageIO.write(bi, "png", new File("imae_auto/" + capText + "_" + fielName + ".png"));
             //对图片进行base64编码，可以在浏览器中直接显示，可作为图片标签使用
             byte[] data = out.toByteArray();
             imageBuffer.append(data);
@@ -73,13 +73,13 @@ public class KaptchaServiceUtil {
     public static void main(String[] args) {
         KaptchaServiceUtil kaptchaServiceUtil = new KaptchaServiceUtil();
         //生成图片数量
-        Integer image_count = 40000;
+        Integer image_count = 100;
         Integer i = 0;
         while (image_count > 0) {
             kaptchaServiceUtil.properties(System.currentTimeMillis());
             image_count--;
-            if (i++ == image_count) {
-                System.out.println("生成"+(i+1)+ "张图片已完成");
+            if (image_count.equals(++i)) {
+                System.out.println("生成" + (i + 1) + "张图片已完成");
             }
         }
     }
@@ -92,19 +92,23 @@ public class KaptchaServiceUtil {
         //边框为绿色
         properties.put("kaptcha.border.color", "green");
         //图片宽度
-        properties.put("kaptcha.image.width", "200");
+        properties.put("kaptcha.image.width", "300");
         //高度
         properties.put("kaptcha.image.height", "60");
         //字符数量
         properties.put("kaptcha.textproducer.char.length", "5");
         //字体大小
-        properties.put("kaptcha.textproducer.font.size", "40");
+        properties.put("kaptcha.textproducer.font.size", "55");
+        //干扰视线类
+        properties.put("kaptcha.noise.impl", "com.byr.com.google.code.kaptcha.impl.DefaultNoise");
         //字符间隔
         properties.put("kaptcha.textproducer.char.space", "1");
+        //字体
+//        properties.put("kaptcha.textproducer.font.names","Arial");
         //噪声颜色
         properties.put("kaptcha.noise.color", "red");
         //字体颜色
-        properties.put("kaptcha.textproducer.font.color", "black");
+        properties.put("kaptcha.textproducer.font.color", "red");
         /**
          * 图片样式：<br />水纹 com.byr.com.google.code.kaptcha.impl.WaterRipple <br />
          * 鱼眼 com.byr.com.google.code.kaptcha.impl.FishEyeGimpy <br />
@@ -119,9 +123,9 @@ public class KaptchaServiceUtil {
             properties.put("kaptcha.obscurificator.impl", "com.byr.com.google.code.kaptcha.impl.WaterRipple");
         }
         //背景颜色渐变开始
-        properties.put("kaptcha.background.clear.from", "yellow");
+        properties.put("kaptcha.background.clear.from", "255,193,37");
         //背景颜色渐变结束
-        properties.put("kaptcha.background.clear.to", "yellow");
+        properties.put("kaptcha.background.clear.to", "255,193,37");
 
         geneValidateCode(properties);
     }

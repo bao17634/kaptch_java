@@ -24,8 +24,9 @@ public class URLContent {
 
     public static void main(String[] args) throws Exception {
         System.out.println("开始");
-        for (int i = 1; i <= 20; i++) {
+        for (int i = 1; i <= 20000; i++) {
             long currentTime = System.currentTimeMillis();
+            Thread.sleep(1000);
             String url = "https://delivery.dhl.com/captcha?type=image&" + currentTime;//一个随机图片接口
             getImg(url, currentTime);
             System.out.println("完成" + i);
